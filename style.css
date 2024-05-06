@@ -22,7 +22,7 @@ header a{
 }
 header nav ul{
     display: inline-block;
-    margin-left: 350px;
+    margin-left: 300px;
     margin-top: 25px;
 }
 header nav ul li{
@@ -62,7 +62,7 @@ header nav ul li a{
     float: left;
 }
 .about{
-    width: 50%;
+    width: 44%;
     float: right;    
 }
 .about h3 span{
@@ -80,7 +80,7 @@ header nav ul li a{
     color: #fff;
 }
 .f-menu{
-    margin-left: 280px;
+    margin-left: 200px;
 }
 .f-menu li{
     display: inline-block;
