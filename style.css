@@ -34,9 +34,10 @@ header nav ul li a{
 }
 
 .banners{
-    background-image: url(/ia_200000019.jpg);
+    background-image: url("https://i.postimg.cc/yWPC534K/ia-200000019.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center center;
     height: 400px;
     padding: 20px 0;
     color: #fff;
